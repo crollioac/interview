@@ -7,9 +7,9 @@ import org.springframework.scheduling.annotation.EnableAsync;
 
 @SpringBootApplication
 @EnableAsync
-public class InterviewVideoApplication {
+public class InterviddInterviewApplication {
 
 	public static void main(String[] args) throws Exception {
-		SpringApplication.run(InterviewVideoApplication.class, args);
+		SpringApplication.run(InterviddInterviewApplication.class, args);
 	}
 }
