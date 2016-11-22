@@ -29,7 +29,8 @@ h2_version=1.4.188
 gatling_version=2.1.7
 mapstruct_version=1.0.0.Final
 hazelcast_version=3.6.+
-systemProp.appengine.sdk.root=/home/tech/Documents/Softwares/appengine-java-sdk-1.9.46
+systemProp.appengine.sdk.root=/home/pratik/Documents/appengine-java-sdk-1.9.46
+
 
 ## below are some of the gradle performance improvement settings that can be used as required, these are not enabled by default
 
